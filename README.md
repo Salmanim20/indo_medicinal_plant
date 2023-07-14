@@ -1,2 +1,2 @@
-# indo_medicinal_plant
+# Indonesia_Medicinal_Plant
 Indonesia Medicinal Plant Dataset

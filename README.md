@@ -18,7 +18,7 @@ Fig. 1 Example images from five selected species of Indonesia medicinal plant da
 
 ## References
 ```
-
+Ikrar Musyaffa, M. S., Yudistira, N., Rahman, M. A., Basori, A. H., Firdausiah Mansur, A. B., & Batoro, J. (2024). IndoHerb: Indonesia medicinal plants recognition using transfer learning and deep learning. Heliyon, 10(23), e40606.
 ```
 
 ## Citation

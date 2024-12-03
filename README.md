@@ -12,7 +12,7 @@ During the dataset collection process, the initial step involved determining whi
 
 From the search results, images that met the criteria for each species were manually selected from the top search results. This manual selection was necessary because, at times, there were discrepancies, such as instances where identical images appeared from different sources. While this issue was minimized in the study, inadvertent selections of identical images were left unchanged. Additionally, some images were excluded due to quality issues, such as scribbles or watermarks. Another challenge involved less-known or rarely found species, resulting in a limited number of search results (e.g., approximately 30 images meeting the criteria). To address this, an image augmentation process was implemented on the obtained images, including horizontal flips, vertical flips, and rotations. Ultimately, all images were resized to 128 × 128. The final IndoHerb dataset comprises 10,000 images across 100 species, with each species containing 100 images.
 
-Fig. 1 Example images from five selected species of Indonesia medicinal plant dataset.
+Fig. 1 Example images from five selected species of IndoHerb dataset.
  
 <img src="https://github.com/user-attachments/assets/12bea63d-5ba6-4eac-bf87-36bde73bff7b" alt="contoh image dataset" width="500" height="500">
 
